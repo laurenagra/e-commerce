@@ -10,7 +10,6 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 - [General](#general)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Website](#website)
 - [Inspiration](#inspiration)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -42,9 +41,6 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## Website
-- Deployed Link here
-
 ## Inspiration
 - GT Full-Stack Bootcamp Homework 13 
 
@@ -52,7 +48,7 @@ THEN I am able to successfully create, update, and delete data in my database
 - Instal: `npm`, `MySql2`, `Sequelize`
 
 ## Usage 
-Walkthrough video here
+
 
 ## Technology 
 - Node.js
@@ -83,4 +79,4 @@ Walkthrough video here
 No current tests for this project
 
 ## Status
-- This project is incomplete as of April 13th
+- This project is complete as of April 13th 2022
