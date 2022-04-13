@@ -48,6 +48,7 @@ THEN I am able to successfully create, update, and delete data in my database
 - Instal: `npm`, `MySql2`, `Sequelize`
 
 ## Usage 
+- [Watch Demo Here](https://drive.google.com/drive/folders/16QNYYr5OWZCOxjg7se7xJYAm1vunTLi0)
 
 
 ## Technology 
